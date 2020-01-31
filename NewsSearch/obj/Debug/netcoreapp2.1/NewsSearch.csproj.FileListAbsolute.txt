@@ -1,0 +1,14 @@
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\bin\Debug\netcoreapp2.1\NewsSearch.deps.json
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\bin\Debug\netcoreapp2.1\NewsSearch.runtimeconfig.json
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\bin\Debug\netcoreapp2.1\NewsSearch.runtimeconfig.dev.json
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\bin\Debug\netcoreapp2.1\NewsSearch.dll
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.csprojAssemblyReference.cache
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.csproj.CoreCompileInputs.cache
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.RazorAssemblyInfo.cache
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.RazorAssemblyInfo.cs
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.AssemblyInfoInputs.cache
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.AssemblyInfo.cs
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.RazorTargetAssemblyInfo.cache
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\bin\Debug\netcoreapp2.1\NewsSearch.pdb
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.dll
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch\obj\Debug\netcoreapp2.1\NewsSearch.pdb

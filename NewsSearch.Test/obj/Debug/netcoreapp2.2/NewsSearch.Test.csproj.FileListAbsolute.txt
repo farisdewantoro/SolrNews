@@ -1,0 +1,17 @@
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\NewsSearch.Test.deps.json
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\NewsSearch.Test.runtimeconfig.json
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\NewsSearch.Test.runtimeconfig.dev.json
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\NewsSearch.Test.dll
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\obj\Debug\netcoreapp2.2\NewsSearch.Test.csprojAssemblyReference.cache
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\obj\Debug\netcoreapp2.2\NewsSearch.Test.csproj.CoreCompileInputs.cache
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\obj\Debug\netcoreapp2.2\NewsSearch.Test.AssemblyInfoInputs.cache
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\obj\Debug\netcoreapp2.2\NewsSearch.Test.AssemblyInfo.cs
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\NewsSearch.Test.pdb
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\NewsSearch.dll
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\bin\Debug\netcoreapp2.2\NewsSearch.pdb
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\obj\Debug\netcoreapp2.2\NewsSearch.Test.csproj.CopyComplete
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\obj\Debug\netcoreapp2.2\NewsSearch.Test.dll
+D:\LATIHAN\SOLR\NewsSearch\NewsSearch.Test\obj\Debug\netcoreapp2.2\NewsSearch.Test.pdb
